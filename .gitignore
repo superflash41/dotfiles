@@ -1,0 +1,15 @@
+**/.git/
+
+*~
+
+*.tmp
+*.temp
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+.env
+
+*.bak
