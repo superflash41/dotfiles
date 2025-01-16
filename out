@@ -1,0 +1,48 @@
+.
+├── kitty
+│   ├── current-theme.conf
+│   └── kitty.conf
+├── neofetch
+│   └── config.conf
+├── nvim
+│   ├── init.lua
+│   ├── LICENSE
+│   ├── lua
+│   │   ├── core
+│   │   │   ├── keymaps.lua
+│   │   │   ├── options.lua
+│   │   │   └── plugins.lua
+│   │   └── plugins
+│   │       ├── cmp.lua
+│   │       ├── lsp.lua
+│   │       ├── nvimtree.lua
+│   │       ├── telescope.lua
+│   │       └── treesitter.lua
+│   ├── plugin
+│   │   └── packer_compiled.lua
+│   └── README.md
+├── out
+├── p10k
+├── yazi
+│   ├── flavors
+│   │   ├── catppuccin-mocha.yazi
+│   │   │   ├── DO_NOT_MODIFY_ANYTHING_IN_THIS_DIRECTORY
+│   │   │   ├── flavor.toml
+│   │   │   ├── LICENSE
+│   │   │   ├── LICENSE-tmtheme
+│   │   │   ├── preview.png
+│   │   │   ├── README.md
+│   │   │   └── tmtheme.xml
+│   │   └── tokyo-night.yazi
+│   │       ├── flavor.toml
+│   │       ├── LICENSE
+│   │       ├── LICENSE-tmtheme
+│   │       ├── preview.png
+│   │       ├── README.md
+│   │       └── tmtheme.xml
+│   ├── package.toml
+│   ├── theme.toml
+│   └── yazi.toml
+└── zsh
+
+14 directories, 32 files
